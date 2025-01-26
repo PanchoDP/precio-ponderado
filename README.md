@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./docs/precio-ponderado.png" height="300" alt="Precio Ponderado">
+    <img src="https://github.com/PanchoDP/precio-ponderado/blob/master/docs/preciopromedio.png" height="300" alt="Precio Ponderado">
 </p>
 
 ------
